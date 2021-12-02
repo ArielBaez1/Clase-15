@@ -1,0 +1,22 @@
+body{
+    background-image: url(../img/fondo.jpg);
+    padding: 0 10px 15px 15px
+}
+footer{
+    padding: 20px 50px;
+}
+form{
+    padding: 40px 50px;
+}
+nav{
+    height: 100px;
+}
+nav div a img{
+    width: 180px;
+}
+.TextDark{
+    color: rgb(151, 116, 116);
+}
+.TextCenter{
+    text-align: center;
+}
